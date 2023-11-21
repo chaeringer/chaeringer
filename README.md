@@ -9,9 +9,9 @@
 
 
 Hi there 👋! I am Christian, nice to meet you! <br><br>
-Engineering Manager with 8+ years of experience managing distributed engineering teams, passion for people development, the web, and open standards. In my work, I value developing high-performance web apps, accessibility, and close collaboration with design teams to achieve an engaging user experience
+Engineering Manager with 10+ years of experience managing distributed engineering teams, passion for people development, the web, and open standards. In my work, I value developing high-performance web apps, accessibility, and close collaboration with design teams to achieve an engaging user experience
 
-- 🔭 I work as VP Engineering at [Data4Life](https://www.data4life.care/en/) developing digital solutions to unlock the full potential of health data
+- 🔭 I work as Director Engineering at [acb.studio](https://acb.studio/), developing sustainable digital solutions
 - 🌱 I’m always interested in learning about new web standards and browser APIs to make digital products even more exciting
 - 😍 [10 principles of good design](https://www.vitsoe.com/us/about/good-design) by [Dieter Rams](https://www.hustwit.com/rams) 
 - 🚀 I care about web performance and web accessibility
